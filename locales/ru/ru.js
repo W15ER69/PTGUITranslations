@@ -1,11 +1,11 @@
 export default {
   sidebar: {
-    dashboard: 'Dashboard',
-    possibleBuys: 'Possible Buys',
-    positions: 'Positions',
-    pairs: 'Pairs',
-    dca: 'DCA',
-    pending: 'Pending',
+    dashboard: 'Панель упр.',
+    possibleBuys: 'Возможно купить',
+    positions: 'Позиции',
+    pairs: 'Пары',
+    dca: 'ДЦА',
+    pending: 'В ожидании',
     dust: 'Dust',
     reserved: 'Reserved',
     reversal: 'Reversal',
